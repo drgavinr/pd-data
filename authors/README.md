@@ -21,5 +21,5 @@ See [delimited text documentation](https://github.com/drgavinr/cc-by-data/blob/m
 
 ## Rights statement
 
-- Keys, descriptions and data structure created by Gavin Robinson. All rights waived under CC0.
+- Keys, descriptions, data structure and documentation created by Gavin Robinson. All rights waived under CC0.
 - Wikidata IDs from Wikidata. CC0.
